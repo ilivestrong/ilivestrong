@@ -1,32 +1,20 @@
-### Hi there 👋
 
-<!--
-**ilivestrong/ilivestrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
-[![Hello World, I'm Deepak!](assets/strong_dev.jpeg)](https://github.com/ilivestrong)
-Background GIF by [vectorstock.com](https://in.pinterest.com/pin/1056094181345280717/) on [Pinterest](https://www.pinterest.com/).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/techiemind/) &nbsp;
+[![Hello World, I'm Jasper!](assets/strong_dev.jpeg)](https://github.com/ilivestrong)
+Background GIF by [vector.com](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
 </div>
 
 - 🔭 I’m currently looking for a new exciting role as Senior/Lead Developer or a Tech Lead.
 - 🔭 Willing to relocate and able to join immediately.
-- 🌱 I’m passionate about [microservices] and distributed services architecture.
+- 🌱 I’m passionate about distributed system, microservices, cloud computing.
 - 📝 I’m aiming to be great at Python and dive into AI world soon.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I am a gym freak, and love to lift heavy weights.
 
 <div align="center">
@@ -37,7 +25,7 @@ Background GIF by [vectorstock.com](https://in.pinterest.com/pin/105609418134528
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Golang, Node.js, JavaScript, AWS, Python](https://skillicons.dev/icons?i=golang,nodejs,js,ts,aws,python)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
