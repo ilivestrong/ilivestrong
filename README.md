@@ -5,7 +5,7 @@
 [![Hello World, I'm Deep!](assets/strong_dev.jpeg)](https://github.com/ilivestrong) 
 Background GIF by [Freepik](https://in.pinterest.com/pin/1100919071396898530/) on [Pinterest](https://www.pinterest.com/).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/techiemind/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:imdeepakpathak@gmail.com?subject=Hello%Deepak,%20From%20Github)
 
 </div>
