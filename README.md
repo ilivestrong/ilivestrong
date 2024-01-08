@@ -1,13 +1,12 @@
 
-
+## Hello :wave:, my name is Deep! Welcome to my github page :four_leaf_clover:
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/strong_dev.jpeg)](https://github.com/ilivestrong)
-Background GIF by [vector.com](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm Deep!](assets/strong_dev.jpeg)](https://github.com/ilivestrong) 
+Background GIF by [Freepik](https://in.pinterest.com/pin/1100919071396898530/) on [Pinterest](https://www.pinterest.com/).
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:imdeepakpathak@gmail.com?subject=Hello%Deepak,%20From%20Github)
 
 </div>
 
