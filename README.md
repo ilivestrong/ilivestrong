@@ -10,10 +10,10 @@ Background GIF by [Freepik](https://in.pinterest.com/pin/1100919071396898530/) o
 
 </div>
 
-- 🔭 I’m currently looking for a new exciting role as Senior/Lead Developer or a Tech Lead.
+- 🔭 Currently working as a Principal software engineer at a cyber security company.
 - 🔭 Willing to relocate and able to join immediately.
 - 🌱 I’m passionate about distributed system, microservices, cloud computing.
-- 📝 I’m aiming to be great at Python and dive into AI world soon.
+- 📝 I’m aiming to be great at Rust and dive into AI world soon.
 - ⚡ Fun fact: I am a gym freak, and love to lift heavy weights.
 
 <div align="center">
