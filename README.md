@@ -24,7 +24,7 @@ Background GIF by [Freepik](https://in.pinterest.com/pin/1100919071396898530/) o
 
 ## 💻 My Tech Stack:
 
-[![Golang, Node.js,cs, JavaScript, AWS, Python](https://skillicons.dev/icons?i=golang,nodejs,nestjs,js,ts,aws,python)](https://skillicons.dev)
+[![Golang, Node.js,cs, JavaScript, AWS, Rust](https://skillicons.dev/icons?i=golang,nodejs,nestjs,js,ts,aws,rust)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
